@@ -1,8 +1,9 @@
 {
+ "id": "/money-pulse/",
  "name": "Money Pulse",
  "short_name": "Money Pulse",
- "start_url": "./index.html",
- "scope": "./",
+ "start_url": "/money-pulse/",
+ "scope": "/money-pulse/",
  "display": "standalone",
  "background_color": "#0b1a33",
  "theme_color": "#0b1a33",
